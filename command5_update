@@ -1,0 +1,1 @@
+curl https://learning.sonicgarden.jp/messages/25 -X PUT -d "message[user]=user_Mr.P_new" -d "message[text]=text_Mr.P_new"

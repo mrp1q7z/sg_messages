@@ -1,0 +1,1 @@
+curl https://learning.sonicgarden.jp/messages/ -X POST -d "message[user]=user_Mr.P" -d "message[text]=text_Mr.P"
